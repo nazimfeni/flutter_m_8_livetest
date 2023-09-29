@@ -2,6 +2,9 @@
 
 A new Flutter project.
 
+<img src="https://github.com/nazimfeni/flutter_m_8_assignment/blob/master/screenshot/potrait.png" width="200" height="400" alt="Potrait image">
+<img src="https://github.com/nazimfeni/flutter_m_8_assignment/blob/master/screenshot/landscape.png" width="400" height="200" alt="Landscape image">
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
